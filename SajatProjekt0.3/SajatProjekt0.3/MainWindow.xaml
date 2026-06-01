@@ -24,42 +24,42 @@
                    Background="#D7C4A5 "
                  x:Name="diakMenu"
                  Content="Diákok"
-                 MouseLeftButtonUp="diakMenu_MouseLeftButtonUp"
+                
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
                  x:Name="tanarMenu"
                  Content="Tanárok"
-                 MouseLeftButtonUp="tanarMenu_MouseLeftButtonUp"
+                 
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
                  x:Name="osztalyMenu"
                  Content="Osztályok"
-                 MouseLeftButtonUp="osztalyMenu_MouseLeftButtonUp"
+                 
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
                  x:Name="termekMenu"
                  Content="Termek"
-                 MouseLeftButtonUp="termekMenu_MouseLeftButtonUp"
+                 
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
                  x:Name="felhasznalokMenu"
                  Content="Felhasználók"
-                 MouseLeftButtonUp="felhasznalokMenu_MouseLeftButtonUp"
+                
                   />
                 <ListViewItem
                  x:Name="kilepesMenu"
                  Background="#D7C4A5 "
                  Content="Bezárás"
                  Foreground="Red"
-                 MouseLeftButtonUp="kilepesMenu_MouseLeftButtonUp"
+                 
                   />
             </ListView>
         </StackPanel>

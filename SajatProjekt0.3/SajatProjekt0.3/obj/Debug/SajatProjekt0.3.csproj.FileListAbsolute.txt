@@ -3,3 +3,13 @@ D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\MainWindow.g.cs
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\App.g.cs
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3_MarkupCompile.cache
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3_MarkupCompile.lref
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\bin\Debug\SajatProjekt0.3.exe.config
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\bin\Debug\SajatProjekt0.3.exe
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\bin\Debug\SajatProjekt0.3.pdb
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\MainWindow.baml
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.g.resources
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0._3.Properties.Resources.resources
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.GenerateResource.cache
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.CoreCompileInputs.cache
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.exe
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.pdb
