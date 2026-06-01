@@ -1,0 +1,5 @@
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.AssemblyReference.cache
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\MainWindow.g.cs
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\App.g.cs
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3_MarkupCompile.cache
+D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3_MarkupCompile.lref

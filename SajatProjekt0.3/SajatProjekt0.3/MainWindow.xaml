@@ -6,49 +6,59 @@
         xmlns:local="clr-namespace:SajatProjekt0._3"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <DockPanel Background="CornflowerBlue">
+    <DockPanel Background="#FFF9E6">
         <StackPanel Height="30" DockPanel.Dock="Top">
             <TextBlock
              FontWeight="ExtraBold"
-             Foreground="White"
-             Text="eKréta Adminisztrátori felület"
-             TextAlignment="Center" />
+             Foreground="#4A3E3D"
+             Text="Sajt vásárló adminisztráció felület"
+             TextAlignment="Left" />
         </StackPanel>
         <StackPanel
          Width="200"
-         Background="DeepSkyBlue"
+         Background="#F4EBE1"
          DockPanel.Dock="Left">
             <ListView>
                 <ListViewItem
+                    Foreground="#4A3E3D"
+                   Background="#D7C4A5 "
                  x:Name="diakMenu"
-                 Content="Diák ok"
+                 Content="Diákok"
                  MouseLeftButtonUp="diakMenu_MouseLeftButtonUp"
                   />
                 <ListViewItem
+                    Foreground="#4A3E3D"
+                    Background="#D7C4A5 "
                  x:Name="tanarMenu"
                  Content="Tanárok"
                  MouseLeftButtonUp="tanarMenu_MouseLeftButtonUp"
                   />
                 <ListViewItem
+                    Foreground="#4A3E3D"
+                    Background="#D7C4A5 "
                  x:Name="osztalyMenu"
                  Content="Osztályok"
                  MouseLeftButtonUp="osztalyMenu_MouseLeftButtonUp"
                   />
                 <ListViewItem
+                    Foreground="#4A3E3D"
+                    Background="#D7C4A5 "
                  x:Name="termekMenu"
                  Content="Termek"
                  MouseLeftButtonUp="termekMenu_MouseLeftButtonUp"
                   />
                 <ListViewItem
+                    Foreground="#4A3E3D"
+                    Background="#D7C4A5 "
                  x:Name="felhasznalokMenu"
                  Content="Felhasználók"
                  MouseLeftButtonUp="felhasznalokMenu_MouseLeftButtonUp"
                   />
                 <ListViewItem
                  x:Name="kilepesMenu"
-                 Background="Red"
+                 Background="#D7C4A5 "
                  Content="Bezárás"
-                 Foreground="White"
+                 Foreground="Red"
                  MouseLeftButtonUp="kilepesMenu_MouseLeftButtonUp"
                   />
             </ListView>
