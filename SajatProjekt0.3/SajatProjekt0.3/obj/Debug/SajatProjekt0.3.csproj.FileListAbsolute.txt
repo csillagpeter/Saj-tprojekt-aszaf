@@ -13,3 +13,4 @@ D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.Generate
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.CoreCompileInputs.cache
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.exe
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.pdb
+D:\csp\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.exe.config

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CSP\\SajatProjekt0.3\\",
+  "WorkspaceRootPath": "D:\\csp\\SajatProjekt0.3\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{065A6159-2D44-4B78-82DA-7EC2F5D1946F}|SajatProjekt0.3\\SajatProjekt0.3.csproj|d:\\csp\\sajatprojekt0.3\\sajatprojekt0.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{065A6159-2D44-4B78-82DA-7EC2F5D1946F}|SajatProjekt0.3\\SajatProjekt0.3.csproj|solutionrelative:sajatprojekt0.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{065A6159-2D44-4B78-82DA-7EC2F5D1946F}|SajatProjekt0.3\\SajatProjekt0.3.csproj|D:\\CSP\\SajatProjekt0.3\\sajatprojekt0.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{065A6159-2D44-4B78-82DA-7EC2F5D1946F}|SajatProjekt0.3\\SajatProjekt0.3.csproj|D:\\csp\\SajatProjekt0.3\\sajatprojekt0.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{065A6159-2D44-4B78-82DA-7EC2F5D1946F}|SajatProjekt0.3\\SajatProjekt0.3.csproj|solutionrelative:sajatprojekt0.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\csp\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SajatProjekt0.3\\MainWindow.xaml",
+              "ToolTip": "D:\\csp\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml*",
+              "RelativeToolTip": "SajatProjekt0.3\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T06:28:48.564Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -41,18 +57,6 @@
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\CSP\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SajatProjekt0.3\\MainWindow.xaml",
-              "ToolTip": "D:\\CSP\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml*",
-              "RelativeToolTip": "SajatProjekt0.3\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-01T06:28:48.564Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -60,18 +64,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\CSP\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\csp\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SajatProjekt0.3\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\CSP\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SajatProjekt0.3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\csp\\SajatProjekt0.3\\SajatProjekt0.3\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "SajatProjekt0.3\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T06:28:48.236Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",

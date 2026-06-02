@@ -22,36 +22,40 @@
                 <ListViewItem
                     Foreground="#4A3E3D"
                    Background="#D7C4A5 "
-                 x:Name="diakMenu"
-                 Content="Diákok"
+                 x:Name="TrapistaMenu"
+                 Content="Trapista" 
+                 MouseLeftButtonUp="TrapistaMenu_MouseLeftButtonUp"
                 
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
-                 x:Name="tanarMenu"
-                 Content="Tanárok"
+                 x:Name="CamamberMenu"
+                 Content="Camamber"
+                    MouseLeftButtonUp="CamamberMenu_MouseLeftButtonUp"
                  
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
-                 x:Name="osztalyMenu"
-                 Content="Osztályok"
+                 x:Name="goudaMenu"
+                 Content="Gouda"
+                    MouseLeftButtonUp="goudaMenu_MouseLeftButtonUp"
                  
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
-                 x:Name="termekMenu"
-                 Content="Termek"
+                 x:Name="KecskeSajtMenu"
+                 Content="KecskeSajt"
                  
                   />
                 <ListViewItem
                     Foreground="#4A3E3D"
                     Background="#D7C4A5 "
-                 x:Name="felhasznalokMenu"
-                 Content="Felhasználók"
+                 x:Name="LapkaMenu"
+                 Content="Lapka"
+                    MouseLeftButtonUp="LapkaMenu_MouseLeftButtonUp"
                 
                   />
                 <ListViewItem
@@ -59,11 +63,31 @@
                  Background="#D7C4A5 "
                  Content="Bezárás"
                  Foreground="Red"
+                    MouseLeftButtonUp="kilepesMenu_MouseLeftButtonUp"
                  
                   />
             </ListView>
         </StackPanel>
-        <StackPanel x:Name="feladatPanel" DockPanel.Dock="Right" />
+        <ListView VerticalAlignment="Center" HorizontalAlignment="Left" Width="200" Height="400">
+            <ListViewItem Content="Vásárlók:"  />
+            <ListViewItem>
+                
+            </ListViewItem>
+
+
+
+        </ListView>
+        <StackPanel x:Name="feladatPanel" DockPanel.Dock="Right" >
+            
+            
+            <Image x:Name="feladatKep" Width="200" Height="200"  HorizontalAlignment="Right"  VerticalAlignment="Bottom"/>
+            <TextBlock Width="400" Height="200" HorizontalAlignment="Right"   VerticalAlignment="Bottom" Padding="10" TextAlignment="Left" >
+               
+                
+            </TextBlock>
+
+
+        </StackPanel>
     </DockPanel>
 
 </Window>

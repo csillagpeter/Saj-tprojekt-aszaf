@@ -24,5 +24,38 @@ namespace SajatProjekt0._3
         {
             InitializeComponent();
         }
+
+        private void diakMenu_Selected(object sender, RoutedEventArgs e)
+        {
+            
+
+
+
+        }
+
+        private void TrapistaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            
+        }
+
+        private void CamamberMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void goudaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void LapkaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+
+        }
+
+        private void kilepesMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+
+        }
     }
 }
