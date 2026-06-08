@@ -48,6 +48,7 @@
                     Background="#D7C4A5 "
                  x:Name="KecskeSajtMenu"
                  Content="KecskeSajt"
+                    MouseLeftButtonUp="KecskeSajtMenu_MouseLeftButtonUp"
                  
                   />
                 <ListViewItem
@@ -70,14 +71,13 @@
         </StackPanel>
         <ListView VerticalAlignment="Center" HorizontalAlignment="Left" Width="200" Height="400">
             <ListViewItem Content="Vásárlók:"  />
-            <ListViewItem>
-                
-            </ListViewItem>
+            <ListBox x:Name="VasarloLista" Width="164" Height="400" Margin="10"/>
+
 
 
 
         </ListView>
-        <Frame x:Name="TartalomKeret" NavigationUIVisibility="Hidden" >
+        <Frame x:Name="TartalomKeret" NavigationUIVisibility="Hidden" Width="400" Height="400" >
             
         </Frame>
         

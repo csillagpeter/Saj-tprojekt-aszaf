@@ -5,10 +5,10 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:SajatProjekt0._3"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="400" d:DesignWidth="400"
       Title="sajtablak">
-    <Grid Background="#FFF4D0">
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Grid Background="#FFF4D0" Height="400" Width="400">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0" Width="380" Height="150">
             <TextBlock 
                 x:Name="SajtCimTextBlock"
                 Text="Gouda Sajt Részletek" 
@@ -17,15 +17,24 @@
                        Foreground="#5E4300" 
                        HorizontalAlignment="Center"
                        Margin="0,0,0,20"/>
-
             <TextBlock 
                 x:Name="SajtLeirasTextBlock"
                 Text="A Gouda egy híres holland félkemény sajt..." 
-                       FontSize="16" 
+                       FontSize="11" 
                        Foreground="#333333"
                        TextWrapping="Wrap"
-                       Width="400"/>
+                       Width="310" Height="94"/>
+
+
+
+
+
         </StackPanel>
+        <TextBlock  x:Name="sajtAlatiszov" Margin="219,173,34,10"><Run Text="shcbdcdadnbjkadn"/></TextBlock>
+        <Image 
+            x:Name="SajtKepImage"
+            Source="image/trapista.jpg" 
+            Stretch="Uniform" Margin="26,231,200,39"/>
     </Grid>
 
 
