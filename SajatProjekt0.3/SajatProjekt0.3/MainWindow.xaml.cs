@@ -35,27 +35,27 @@ namespace SajatProjekt0._3
 
         private void TrapistaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-            
+            TartalomKeret.Navigate(new sajtablak("Trapista"));
         }
 
         private void CamamberMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-
+            TartalomKeret.Navigate(new sajtablak("Camaber"));
         }
 
         private void goudaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-
+            TartalomKeret.Navigate(new sajtablak("Gouda"));
         }
 
         private void LapkaMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-
+            TartalomKeret.Navigate(new sajtablak("Lapka"));
         }
 
         private void kilepesMenu_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
         {
-
+            this.Close();
         }
     }
 }

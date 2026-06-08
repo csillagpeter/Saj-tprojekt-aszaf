@@ -77,17 +77,13 @@
 
 
         </ListView>
-        <StackPanel x:Name="feladatPanel" DockPanel.Dock="Right" >
+        <Frame x:Name="TartalomKeret" NavigationUIVisibility="Hidden" >
             
-            
-            <Image x:Name="feladatKep" Width="200" Height="200"  HorizontalAlignment="Right"  VerticalAlignment="Bottom"/>
-            <TextBlock Width="400" Height="200" HorizontalAlignment="Right"   VerticalAlignment="Bottom" Padding="10" TextAlignment="Left" >
-               
-                
-            </TextBlock>
+        </Frame>
+        
 
 
-        </StackPanel>
+        
     </DockPanel>
 
 </Window>

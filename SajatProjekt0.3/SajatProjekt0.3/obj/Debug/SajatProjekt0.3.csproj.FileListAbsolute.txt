@@ -14,3 +14,5 @@ D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.csproj.CoreComp
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.exe
 D:\CSP\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.pdb
 D:\csp\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\SajatProjekt0.3.exe.config
+D:\csp\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\sajtablak.g.cs
+D:\csp\SajatProjekt0.3\SajatProjekt0.3\obj\Debug\sajtablak.baml
